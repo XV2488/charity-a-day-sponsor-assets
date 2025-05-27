@@ -1,14 +1,14 @@
 [
   {
-    "name": "Apple",
+    "name": "SponsorA",
     "website": "https://apple.com"
   },
   {
-    "name": "Microsoft",
+    "name": "SponsorB",
     "website": "https://microsoft.com"
   },
   {
-    "name": "Google",
+    "name": "SponsorC",
     "website": "https://google.com"
   }
 ]
